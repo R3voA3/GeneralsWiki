@@ -23,8 +23,8 @@ such as enhanced menus or control bars.
 
 ## Profil Setup
 1. Now go back to the **Game Profiles** tab in the top left and press the **Add new Profile** button to create a new profile.
-2. In the now open window, select **Installation** and select the installation you want to use, for example **Steam, Zero Hour**. Press the **+** button to add it to the current profile.
-3. Next, press the **Executeable** button and select one of the executables. For example **SuperHackers - Zero Hour v2034..**.
+2. In the now open window, select **Installation** and select the installation you want to use, for example ==Steam, Zero Hour==. Press the **+** button to add it to the current profile.
+3. Next, press the **Executeable** button and select one of the executables. For example ==SuperHackers - Zero Hour v2034..==.
 4. Optionally, go to the **Profile Settings** and add a name, description and various other information for this profile. You can also add startup parameters here. See **ADD LINK HERE** for all available options.
 5. Last but not least, go to the **Game Options** and set up the settings you wish to use, such as game resolution, video quality and so on.
 Most of the new options introduced with the **SuperHackers** patch are available here as well.
