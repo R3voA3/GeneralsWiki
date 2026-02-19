@@ -2,6 +2,7 @@
 
 ## [Home](Home)
 
+- [How to Play](how_to_play)
 - [How to Get Involved](how_to_involved)
 - [How to Contribution](https://github.com/TheSuperHackers/GeneralsGameCode/blob/main/CONTRIBUTING.md)
 - [Replays for testing](replay_testing)
