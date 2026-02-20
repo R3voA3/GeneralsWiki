@@ -31,6 +31,8 @@ Most of the new options introduced with the **SuperHackers** patch are available
 6. Now save the profile and press **Launch** to start the game. Enjoy!
 
 ## Camera Height Fix
+On some resolutions you need to apply a camera fix in order to play with an appropriate camera height. Follow the steps below.
+
 1. Go the the **Downloads** tab in top center
 2. Expand the **Community Outpost** section
 3. Download **Camera Mod - General** or **Camera Mod - Zero Hour**
