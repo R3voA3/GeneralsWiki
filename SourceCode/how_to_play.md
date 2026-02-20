@@ -35,5 +35,5 @@ On some resolutions you need to apply a camera fix in order to play with an appr
 
 1. Go the the **Downloads** tab in top center
 2. Expand the **Community Outpost** section
-3. Download **Camera Mod - General** or **Camera Mod - Zero Hour**
+3. Download **Camera Mod - Generals** or **Camera Mod - Zero Hour**
 4. Add the mod to the profile of your choice
